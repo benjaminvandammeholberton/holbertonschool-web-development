@@ -1,6 +1,7 @@
 # HTML, advanced
 
 ![cover](/images/imgcover.jpeg)
+
 ![cover](/images/imgcover2.jpeg)
 
 ## Learning Objectives
@@ -20,9 +21,9 @@
 - You are not allowed to install, import or use external libraries. This website must be build with - only HTML/CSS/JavaScript. No NodeJS, React, VueJS, Bootstrap, etc.
 - Your code should be W3C compliant and validate with W3C-Validator
 
-### Tasks
+## Tasks
 
-#### 0. README and objectives!
+### 0. README and objectives!
 
 In this and coming projects, you will implement from scratch a webpage from a designer file.
 
@@ -38,13 +39,13 @@ Important notes with Figma:
 - some values are in float - feel free to round them
   For this task, please write an amazing `README.md`
 
-#### 1. Header
+### 1. Header
 
 Let’s start by the top: **the header**
 
 Here the wireframe of it:
 
-![](./images/img1.jpeg)
+![](/images/img1.jpeg)
 
 - Create the HTML skeleton (`html`, `head`, `body`, etc.)
 - In the body, add an `header` tag
@@ -52,11 +53,11 @@ Here the wireframe of it:
   - Add a link element with an image inside
   - Add a block of 3 link elements
 
-#### 2. Banner
+### 2. Banner
 
 Now, the banner under the `header`:
 
-![](./images/img2.jpeg)
+![](/images/img2.jpeg)
 
 Under the `header`, add a `main` element with inside a `section` element.
 
@@ -73,11 +74,11 @@ In this `section` element, add:
     - An heading tag
     - A text
 
-#### 3. Quote
+### 3. Quote
 
 Under the banner, we will add the quote block:
 
-![](./images/img3.jpeg)
+![](/images/img3.jpeg)
 
 The quote section is inside the `main`:
 
@@ -89,11 +90,11 @@ The quote section is inside the `main`:
     - An author quote
     - A text
 
-#### 4. Videos
+### 4. Videos
 
 Let’s now add the videos list:
 
-![](./images/img4.jpeg)
+![](/images/img4.jpeg)
 
 New `section` with inside:
 
@@ -109,11 +110,11 @@ New `section` with inside:
     - A block of images (one star = one image)
     - A text
 
-#### 5. Membership
+### 5. Membership
 
 Membership section is similar as the videos list:
 
-![](./images/img5.jpeg)
+![](/images/img5.jpeg)
 
 After the videos list section, add a new `section` containing:
 
@@ -124,11 +125,11 @@ After the videos list section, add a new `section` containing:
   - A text
 - A button
 
-#### 6. FAQ
+### 6. FAQ
 
 The FAQ section is ending the page before the footer:
 
-![](./images/img6.jpeg)
+![](/images/img6.jpeg)
 
 Add a `section` for the FAQ with inside:
 
@@ -138,11 +139,11 @@ Add a `section` for the FAQ with inside:
   - An heading
   - A text
 
-#### 7. Footer
+### 7. Footer
 
 And… the footer!
 
-![](./images/img7.jpeg)
+![](/images/img7.jpeg)
 
 After the last `section`, outside of the `main`, add a `footer`:
 
